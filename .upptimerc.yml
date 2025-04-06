@@ -6,7 +6,7 @@ sites:
   - name: Thorin Media Dashboard
     url: https://dash.thorin.es
   - name: emby
-    url: https://bideo.thorin.es
+    url: https://video.thorin.es
   
 
 status-website:
