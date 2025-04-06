@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/video.thorin.es.ico",
     "slug": "emby",
     "status": "up",
-    "uptime": "1.62%",
-    "uptimeDay": "1.62%",
-    "uptimeWeek": "1.62%",
-    "uptimeMonth": "1.62%",
-    "uptimeYear": "1.62%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 828,
     "timeDay": 828,
     "timeWeek": 828,
     "timeMonth": 828,
     "timeYear": 828,
-    "dailyMinutesDown": {
-      "2025-04-06": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
