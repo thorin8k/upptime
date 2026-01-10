@@ -4,10 +4,10 @@
     "url": "https://dash.thorin.es",
     "icon": "https://icons.duckduckgo.com/ip3/dash.thorin.es.ico",
     "slug": "thorin-media-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "95.95%",
-    "uptimeWeek": "98.58%",
+    "uptimeDay": "95.93%",
+    "uptimeWeek": "98.57%",
     "uptimeMonth": "98.17%",
     "uptimeYear": "99.12%",
     "time": 1426,
@@ -91,8 +91,7 @@
       "2025-08-02": 35,
       "2025-07-31": 25,
       "2025-07-30": 25,
-      "2025-07-28": 33,
-      "2025-07-27": 20
+      "2025-07-28": 33
     }
   },
   {
@@ -104,7 +103,7 @@
     "uptime": "98.58%",
     "uptimeDay": "96.01%",
     "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.33%",
+    "uptimeMonth": "99.38%",
     "uptimeYear": "98.58%",
     "time": 1360,
     "timeDay": 3361,
