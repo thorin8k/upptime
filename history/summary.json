@@ -4,18 +4,19 @@
     "url": "https://dash.thorin.es",
     "icon": "https://icons.duckduckgo.com/ip3/dash.thorin.es.ico",
     "slug": "thorin-media-dashboard",
-    "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "98.65%",
     "uptimeMonth": "96.12%",
-    "uptimeYear": "98.73%",
+    "uptimeYear": "98.74%",
     "time": 1465,
     "timeDay": 1261,
     "timeWeek": 1353,
     "timeMonth": 1494,
     "timeYear": 1488,
     "dailyMinutesDown": {
+      "2026-04-30": 1,
       "2026-04-26": 34,
       "2026-04-25": 101,
       "2026-04-17": 221,
@@ -88,8 +89,7 @@
       "2025-12-03": 49,
       "2025-12-01": 22,
       "2025-11-29": 17,
-      "2025-11-28": 160,
-      "2025-11-24": 57
+      "2025-11-28": 160
     }
   },
   {
@@ -97,18 +97,19 @@
     "url": "https://video.thorin.es",
     "icon": "https://icons.duckduckgo.com/ip3/video.thorin.es.ico",
     "slug": "emby",
-    "status": "up",
-    "uptime": "98.66%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.74%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.95%",
-    "uptimeYear": "98.58%",
+    "uptimeYear": "98.66%",
     "time": 1360,
     "timeDay": 4837,
     "timeWeek": 1459,
     "timeMonth": 1244,
     "timeYear": 1370,
     "dailyMinutesDown": {
+      "2026-04-30": 0,
       "2026-04-17": 221,
       "2026-04-16": 587,
       "2026-04-13": 65,
@@ -192,8 +193,7 @@
       "2025-07-28": 32,
       "2025-07-27": 19,
       "2025-07-24": 28,
-      "2025-07-21": 15,
-      "2025-06-25": 432
+      "2025-07-21": 15
     }
   }
 ]
