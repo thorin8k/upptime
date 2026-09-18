@@ -4,19 +4,18 @@
     "url": "https://dash.thorin.es",
     "icon": "https://icons.duckduckgo.com/ip3/dash.thorin.es.ico",
     "slug": "thorin-media-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "98.51%",
-    "time": 1389,
-    "timeDay": 948,
-    "timeWeek": 858,
-    "timeMonth": 996,
-    "timeYear": 1383,
+    "time": 1383,
+    "timeDay": 0,
+    "timeWeek": 866,
+    "timeMonth": 1005,
+    "timeYear": 1379,
     "dailyMinutesDown": {
-      "2025-12-01": 22,
       "2025-12-03": 49,
       "2025-12-04": 60,
       "2025-12-07": 16,
@@ -93,7 +92,8 @@
       "2026-07-14": 758,
       "2026-07-13": 15,
       "2026-07-24": 137,
-      "2026-08-22": 34
+      "2026-08-22": 34,
+      "2026-09-18": 5
     }
   },
   {
@@ -101,19 +101,18 @@
     "url": "https://video.thorin.es",
     "icon": "https://icons.duckduckgo.com/ip3/video.thorin.es.ico",
     "slug": "emby",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "98.51%",
-    "time": 1449,
-    "timeDay": 1164,
-    "timeWeek": 1108,
-    "timeMonth": 2232,
-    "timeYear": 1423,
+    "uptimeYear": "98.52%",
+    "time": 1450,
+    "timeDay": 0,
+    "timeWeek": 1121,
+    "timeMonth": 2273,
+    "timeYear": 1420,
     "dailyMinutesDown": {
-      "2025-09-18": 20,
       "2025-09-25": 20,
       "2025-09-26": 18,
       "2025-10-02": 162,
@@ -185,7 +184,8 @@
       "2026-07-14": 758,
       "2026-07-13": 10,
       "2026-07-24": 136,
-      "2026-08-22": 27
+      "2026-08-22": 27,
+      "2026-09-18": 0
     }
   }
 ]
