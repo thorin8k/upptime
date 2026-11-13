@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dash.thorin.es.ico",
     "slug": "thorin-media-dashboard",
     "status": "down",
-    "uptime": "98.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "98.37%",
-    "time": 1350,
-    "timeDay": 855,
-    "timeWeek": 910,
-    "timeMonth": 881,
-    "timeYear": 1290,
+    "uptime": "98.84%",
+    "uptimeDay": "16.25%",
+    "uptimeWeek": "88.04%",
+    "uptimeMonth": "97.25%",
+    "uptimeYear": "98.14%",
+    "time": 1342,
+    "timeDay": 0,
+    "timeWeek": 904,
+    "timeMonth": 887,
+    "timeYear": 1292,
     "dailyMinutesDown": {
       "2025-12-03": 18,
       "2025-12-04": 60,
@@ -94,7 +94,8 @@
       "2026-07-24": 137,
       "2026-08-22": 34,
       "2026-09-18": 758,
-      "2026-11-12": 5
+      "2026-11-13": 228,
+      "2026-11-12": 978
     }
   },
   {
@@ -103,16 +104,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/video.thorin.es.ico",
     "slug": "emby",
     "status": "down",
-    "uptime": "98.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.78%",
-    "time": 1432,
-    "timeDay": 967,
-    "timeWeek": 1016,
-    "timeMonth": 1090,
-    "timeYear": 1430,
+    "uptime": "98.79%",
+    "uptimeDay": "16.58%",
+    "uptimeWeek": "88.08%",
+    "uptimeMonth": "97.26%",
+    "uptimeYear": "98.56%",
+    "time": 1433,
+    "timeDay": 0,
+    "timeWeek": 1012,
+    "timeMonth": 1088,
+    "timeYear": 1420,
     "dailyMinutesDown": {
       "2025-11-19": 23,
       "2025-11-22": 24,
@@ -169,7 +170,8 @@
       "2026-07-24": 136,
       "2026-08-22": 27,
       "2026-09-18": 753,
-      "2026-11-12": 0
+      "2026-11-13": 228,
+      "2026-11-12": 973
     }
   }
 ]
